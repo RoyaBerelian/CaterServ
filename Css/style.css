@@ -12,8 +12,24 @@ h1, h2, h3{
     font-weight: 400 !important;
     font-family: 'Playball', cursive !important;
 }
+.py-6 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.my-6 {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+.wow{
+    animation-duration: 2s !important;
+    /* visibility: hidden; */
+}
+
+.animated {
+    animation-duration: 2s !important;
+}
 .test {
-    border: 3px solid rgb(0, 0, 0);
+    border: 3px solid rgb(60, 57, 57);
 }
 
 
