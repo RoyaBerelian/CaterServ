@@ -5,13 +5,13 @@
 
 
 
-- [Demo Project](https://royaberelian.github.io/Popup/)
+- [Demo Project]()
 
 - Developed by Roya Berelian
 
-- Created - 2024-6-5
+- Created - 2025-8-6
 
-- Technologies Used - Html5, Css3, JavaScript ,Bootstrap
+- Technologies Used - Html5, Css3, JavaScript ,Bootstrap5
 
 - Role - Frontend
 
