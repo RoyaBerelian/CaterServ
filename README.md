@@ -11,7 +11,7 @@
 
 - Created - 2024-6-5
 
-- Technologies Used - Html5, Css3, JavaScript
+- Technologies Used - Html5, Css3, JavaScript ,Bootstrap
 
 - Role - Frontend
 
